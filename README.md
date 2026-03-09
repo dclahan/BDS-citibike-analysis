@@ -27,4 +27,4 @@ This project analyzes large-scale CitiBike trip data using Apache Spark on Datab
 2. Paste git hash and run notebook 01 for data ingestion
    - free plan gets ratelimited for > 2months or > 10 mil rows of data
 3. Tables will be saved and usable from any other notebook after that
-  - might be slow, thats what I found 
+   - might be slow, thats what I found 
