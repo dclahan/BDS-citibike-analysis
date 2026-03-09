@@ -24,3 +24,4 @@ This project analyzes large-scale CitiBike trip data using Apache Spark on Datab
 ---
 ### 3. Clone repository in Notebooks
 1. Go to **Workspace** → **Home** → click **Import** → **Git Folder**
+2. Paste git hash and go
