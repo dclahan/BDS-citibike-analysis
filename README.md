@@ -24,4 +24,7 @@ This project analyzes large-scale CitiBike trip data using Apache Spark on Datab
 ---
 ### 3. Clone repository in Notebooks
 1. Go to **Workspace** → **Home** → click **Import** → **Git Folder**
-2. Paste git hash and go
+2. Paste git hash and run notebook 01 for data ingestion
+   - free plan gets ratelimited for > 2months or > 10 mil rows of data
+3. Tables will be saved and usable from any other notebook after that
+  - might be slow, thats what I found 
