@@ -19,7 +19,7 @@ This project analyzes large-scale CitiBike trip data using Apache Spark on Datab
 2. Sign up for a **free Community Edition** account
 3. Verify your email and log in
 
-> ⚠️ Community Edition gives you a single-node Spark cluster with ~15GB RAM. This is sufficient for multi-year CitiBike subsets and still exposes the full Spark API.
+> ⚠️ Community Edition gives you a single-node Spark cluster with ~5-10GB RAM. This is not sufficient for multi-year CitiBike subsets.
 
 ---
 ### 3. Clone repository in Notebooks
