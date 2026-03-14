@@ -16,3 +16,4 @@
 notebooks/02_data_exploration.ipynb
 notebooks/03_cotrip_analysis.ipynb
 notebooks/04_cotrip_by_archetype.ipynb
+notebooks/05_destination_divergence.ipynb
